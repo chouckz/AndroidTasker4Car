@@ -1,0 +1,2883 @@
+<TaskerData sr="" dvi="1" tv="4.3u4m">
+	<Profile sr="prof10" ve="2">
+		<cdate>1404014173991</cdate>
+		<edate>1404670113208</edate>
+		<flags>18</flags>
+		<id>10</id>
+		<mid0>11</mid0>
+		<State sr="con0" ve="2">
+			<code>21557</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<ACTION>TRACK_UPDATED</ACTION>
+					<ACTION-type>java.lang.String</ACTION-type>
+					<com.batescorp.notificationmediacontrols.plugin.ALBUM>%MU_ALBUM</com.batescorp.notificationmediacontrols.plugin.ALBUM>
+					<com.batescorp.notificationmediacontrols.plugin.ALBUM-type>java.lang.String</com.batescorp.notificationmediacontrols.plugin.ALBUM-type>
+					<com.batescorp.notificationmediacontrols.plugin.ARTIST>%MU_ARTIST</com.batescorp.notificationmediacontrols.plugin.ARTIST>
+					<com.batescorp.notificationmediacontrols.plugin.ARTIST-type>java.lang.String</com.batescorp.notificationmediacontrols.plugin.ARTIST-type>
+					<com.batescorp.notificationmediacontrols.plugin.TRACK>%MU_TRACK</com.batescorp.notificationmediacontrols.plugin.TRACK>
+					<com.batescorp.notificationmediacontrols.plugin.TRACK-type>java.lang.String</com.batescorp.notificationmediacontrols.plugin.TRACK-type>
+					<com.twofortyfouram.locale.intent.extra.BLURB>New Track</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>com.batescorp.notificationmediacontrols.plugin.ALBUM com.batescorp.notificationmediacontrols.plugin.ARTIST com.batescorp.notificationmediacontrols.plugin.TRACK</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.batescorp.notificationmediacontrols.alpha</Str>
+			<Str sr="arg2" ve="3">Media Utilities State</Str>
+		</State>
+	</Profile>
+	<Profile sr="prof14" ve="2">
+		<cdate>1405116047196</cdate>
+		<edate>1406743634763</edate>
+		<flags>2</flags>
+		<id>14</id>
+		<mid0>18</mid0>
+		<Event sr="con0" ve="2">
+			<code>413</code>
+		</Event>
+	</Profile>
+	<Profile sr="prof15" ve="2">
+		<cdate>1404018051137</cdate>
+		<edate>1406732960918</edate>
+		<flags>18</flags>
+		<id>15</id>
+		<mid0>16</mid0>
+		<mid1>17</mid1>
+		<State sr="con0" ve="2">
+			<code>21557</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<ACTION>IS_PLAYING</ACTION>
+					<ACTION-type>java.lang.String</ACTION-type>
+					<com.batescorp.notificationmediacontrols.plugin.ALBUM>%MU_ALBUM</com.batescorp.notificationmediacontrols.plugin.ALBUM>
+					<com.batescorp.notificationmediacontrols.plugin.ALBUM-type>java.lang.String</com.batescorp.notificationmediacontrols.plugin.ALBUM-type>
+					<com.batescorp.notificationmediacontrols.plugin.ARTIST>%MU_ARTIST</com.batescorp.notificationmediacontrols.plugin.ARTIST>
+					<com.batescorp.notificationmediacontrols.plugin.ARTIST-type>java.lang.String</com.batescorp.notificationmediacontrols.plugin.ARTIST-type>
+					<com.batescorp.notificationmediacontrols.plugin.TRACK>%MU_TRACK</com.batescorp.notificationmediacontrols.plugin.TRACK>
+					<com.batescorp.notificationmediacontrols.plugin.TRACK-type>java.lang.String</com.batescorp.notificationmediacontrols.plugin.TRACK-type>
+					<com.twofortyfouram.locale.intent.extra.BLURB>Is Playing</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>com.batescorp.notificationmediacontrols.plugin.ALBUM com.batescorp.notificationmediacontrols.plugin.ARTIST com.batescorp.notificationmediacontrols.plugin.TRACK</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.batescorp.notificationmediacontrols.alpha</Str>
+			<Str sr="arg2" ve="3">Media Utilities State</Str>
+		</State>
+	</Profile>
+	<Profile sr="prof2" ve="2">
+		<cdate>1403459039677</cdate>
+		<edate>1406690952528</edate>
+		<flags>26</flags>
+		<id>2</id>
+		<mid0>30</mid0>
+		<mid1>33</mid1>
+		<pri>1</pri>
+		<State sr="con0" ve="2">
+			<code>10</code>
+			<Int sr="arg0" val="1"/>
+		</State>
+	</Profile>
+	<Profile sr="prof25" ve="2">
+		<cdate>1406297742067</cdate>
+		<edate>1406297742067</edate>
+		<flags>2</flags>
+		<id>25</id>
+		<mid0>23</mid0>
+		<mid1>24</mid1>
+		<App sr="con0" ve="2">
+			<cls0>com.navigon.navigator_checkout_na.hmi.CheckExistingRegistrationActivity</cls0>
+			<flags>2</flags>
+			<label0>NAVIGON</label0>
+			<pkg0>com.navigon.navigator_checkout_na</pkg0>
+		</App>
+	</Profile>
+	<Profile sr="prof5" ve="2">
+		<cdate>1404090799632</cdate>
+		<edate>1406743668892</edate>
+		<flags>16</flags>
+		<id>5</id>
+		<mid0>8</mid0>
+		<Event sr="con0" ve="2">
+			<code>411</code>
+			<pri>0</pri>
+		</Event>
+	</Profile>
+	<Profile sr="prof7" ve="2">
+		<cdate>1406297440033</cdate>
+		<edate>1406297705161</edate>
+		<flags>2</flags>
+		<id>7</id>
+		<mid0>22</mid0>
+		<mid1>24</mid1>
+		<App sr="con0" ve="2">
+			<cls0>com.android.music.activitymanagement.TopLevelActivity</cls0>
+			<flags>2</flags>
+			<label0>Music</label0>
+			<pkg0>com.google.android.music</pkg0>
+		</App>
+	</Profile>
+	<Project sr="proj0">
+		<cdate>1403457444414</cdate>
+		<mdate>1406690891618</mdate>
+		<name>Base</name>
+		<pids>2,10,15,5,14,7,25</pids>
+		<tids>30,33,3,4,9,11,13,16,17,8,19,20,6,12,18,21,22,23,24,26,27,28,29,31,32</tids>
+		<Img sr="icon" ve="2">
+			<nme>hd_aaa_ext_home</nme>
+		</Img>
+	</Project>
+	<Task sr="task11">
+		<cdate>1404014185819</cdate>
+		<edate>1406658416605</edate>
+		<id>11</id>
+		<nme>Fill Track</nme>
+		<pri>10</pri>
+		<Action sr="act0" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%PreviousARTIST</Str>
+			<Str sr="arg1" ve="3">%ARTIST</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act1" ve="5">
+			<code>549</code>
+			<Str sr="arg0" ve="3">%ARTIST</Str>
+			<Int sr="arg1" val="0"/>
+		</Action>
+		<Action sr="act10" ve="5">
+			<code>37</code>
+			<label>if tags neither Latin no Russian (garbedge) clean them</label>
+			<ConditionList sr="if">
+				<bool0>And</bool0>
+				<bool1>And</bool1>
+				<bool2>And</bool2>
+				<Condition sr="c0" ve="2">
+					<lhs>%ARTIST</lhs>
+					<op>11</op>
+					<rhs>[a-zA-Z]</rhs>
+				</Condition>
+				<Condition sr="c1" ve="2">
+					<lhs>%TRACK</lhs>
+					<op>11</op>
+					<rhs>[a-zA-Z]</rhs>
+				</Condition>
+				<Condition sr="c2" ve="2">
+					<lhs>%ARTIST</lhs>
+					<op>11</op>
+					<rhs>[а-яА-Я]</rhs>
+				</Condition>
+				<Condition sr="c3" ve="2">
+					<lhs>%TRACK</lhs>
+					<op>11</op>
+					<rhs>[а-яА-Я]</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act11" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%ARTIST</Str>
+			<Str sr="arg1" ve="3"> </Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act12" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%TRACK</Str>
+			<Str sr="arg1" ve="3"> </Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act13" ve="5">
+			<code>43</code>
+		</Action>
+		<Action sr="act14" ve="5">
+			<code>23623</code>
+			<on>false</on>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<com.batescorp.notificationmediacontrols.shortcuts.MediaControlShortCutAction.KEYCODE>-775</com.batescorp.notificationmediacontrols.shortcuts.MediaControlShortCutAction.KEYCODE>
+					<com.batescorp.notificationmediacontrols.shortcuts.MediaControlShortCutAction.KEYCODE-type>java.lang.Integer</com.batescorp.notificationmediacontrols.shortcuts.MediaControlShortCutAction.KEYCODE-type>
+					<com.twofortyfouram.locale.intent.extra.BLURB>Play (Smart)</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.batescorp.notificationmediacontrols.alpha</Str>
+			<Str sr="arg2" ve="3">Media Utilities Action</Str>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act15" ve="5">
+			<code>559</code>
+			<se>false</se>
+			<Str sr="arg0" ve="3">%TRACK</Str>
+			<Str sr="arg1" ve="3">%TagLang</Str>
+			<Int sr="arg2" val="3"/>
+			<Int sr="arg3" val="5"/>
+			<Int sr="arg4" val="5"/>
+			<Int sr="arg5" val="1"/>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+			<ConditionList sr="if">
+				<bool0>Or</bool0>
+				<Condition sr="c0" ve="2">
+					<lhs>%ARTIST</lhs>
+					<op>0</op>
+					<rhs>%PreviousARTIST</rhs>
+				</Condition>
+				<Condition sr="c1" ve="2">
+					<lhs>%ARTIST</lhs>
+					<op>0</op>
+					<rhs>Various Artists :</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act16" ve="5">
+			<code>559</code>
+			<se>false</se>
+			<Str sr="arg0" ve="3">%ARTIST   
+%TRACK</Str>
+			<Str sr="arg1" ve="3">%TagLang</Str>
+			<Int sr="arg2" val="3"/>
+			<Int sr="arg3" val="5"/>
+			<Int sr="arg4" val="5"/>
+			<Int sr="arg5" val="1"/>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+			<ConditionList sr="if">
+				<bool0>And</bool0>
+				<Condition sr="c0" ve="2">
+					<lhs>%ARTIST</lhs>
+					<op>1</op>
+					<rhs>%PreviousARTIST</rhs>
+				</Condition>
+				<Condition sr="c1" ve="2">
+					<lhs>%ARTIST</lhs>
+					<op>1</op>
+					<rhs>Various Artists :</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act17" ve="5">
+			<code>23623</code>
+			<on>false</on>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<com.batescorp.notificationmediacontrols.shortcuts.MediaControlShortCutAction.KEYCODE>-776</com.batescorp.notificationmediacontrols.shortcuts.MediaControlShortCutAction.KEYCODE>
+					<com.batescorp.notificationmediacontrols.shortcuts.MediaControlShortCutAction.KEYCODE-type>java.lang.Integer</com.batescorp.notificationmediacontrols.shortcuts.MediaControlShortCutAction.KEYCODE-type>
+					<com.twofortyfouram.locale.intent.extra.BLURB>Pause (Smart)</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.batescorp.notificationmediacontrols.alpha</Str>
+			<Str sr="arg2" ve="3">Media Utilities Action</Str>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act18" ve="5">
+			<code>548</code>
+			<on>false</on>
+			<Str sr="arg0" ve="3">"%ARTIST" - "%TRACK"</Str>
+			<Int sr="arg1" val="0"/>
+		</Action>
+		<Action sr="act19" ve="5">
+			<code>38</code>
+		</Action>
+		<Action sr="act2" ve="5">
+			<code>549</code>
+			<Str sr="arg0" ve="3">%TRACK</Str>
+			<Int sr="arg1" val="0"/>
+		</Action>
+		<Action sr="act3" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%ARTIST</Str>
+			<Str sr="arg1" ve="3">%artist</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act4" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%TRACK</Str>
+			<Str sr="arg1" ve="3">%track</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act5" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%TagLang</Str>
+			<Str sr="arg1" ve="3">com.ivona.tts.oem:eng-GBR-brian</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act6" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%TagLang</Str>
+			<Str sr="arg1" ve="3">com.ivona.tts.oem:rus-RUS-tatyana</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<ConditionList sr="if">
+				<bool0>Or</bool0>
+				<Condition sr="c0" ve="2">
+					<lhs>%ARTIST</lhs>
+					<op>10</op>
+					<rhs>[а-яА-Я]</rhs>
+				</Condition>
+				<Condition sr="c1" ve="2">
+					<lhs>%TRACK</lhs>
+					<op>10</op>
+					<rhs>[а-яА-Я]</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act7" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%ARTIST</Str>
+			<Str sr="arg1" ve="3">%ARTIST :</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<ConditionList sr="if">
+				<bool0>And</bool0>
+				<bool1>And</bool1>
+				<Condition sr="c0" ve="2">
+					<lhs>%ARTIST</lhs>
+					<op>1</op>
+					<rhs>---</rhs>
+				</Condition>
+				<Condition sr="c1" ve="2">
+					<lhs>%ARTIST</lhs>
+					<op>1</op>
+					<rhs>&lt;unknown&gt;</rhs>
+				</Condition>
+				<Condition sr="c2" ve="2">
+					<lhs>%ARTIST</lhs>
+					<op>8</op>
+					<rhs></rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act8" ve="5">
+			<code>547</code>
+			<on>false</on>
+			<Str sr="arg0" ve="3">%ARTIST</Str>
+			<Str sr="arg1" ve="3"> </Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="2">
+					<lhs>%ARTIST</lhs>
+					<op>0</op>
+					<rhs>%PreviousARTIST</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act9" ve="5">
+			<code>549</code>
+			<on>false</on>
+			<Str sr="arg0" ve="3">%ARTIST</Str>
+			<Int sr="arg1" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="2">
+					<lhs>%ARTIST</lhs>
+					<op>0</op>
+					<rhs>%PreviousARTIST</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+	</Task>
+	<Task sr="task12">
+		<cdate>1404395178302</cdate>
+		<edate>1404670113208</edate>
+		<id>12</id>
+		<nme>Update Tags</nme>
+		<Action sr="act0" ve="5">
+			<code>137</code>
+			<Int sr="arg0" val="0"/>
+			<Str sr="arg1" ve="3">Fill Track</Str>
+		</Action>
+		<Action sr="act1" ve="5">
+			<code>549</code>
+			<Str sr="arg0" ve="3">%ARTIST</Str>
+			<Int sr="arg1" val="0"/>
+		</Action>
+		<Action sr="act2" ve="5">
+			<code>549</code>
+			<Str sr="arg0" ve="3">%TRACK</Str>
+			<Int sr="arg1" val="0"/>
+		</Action>
+		<Action sr="act3" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%ARTIST</Str>
+			<Str sr="arg1" ve="3">%artist</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act4" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%TRACK</Str>
+			<Str sr="arg1" ve="3">%track</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act5" ve="5">
+			<code>130</code>
+			<Str sr="arg0" ve="3">Fill Track</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="5"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+		</Action>
+	</Task>
+	<Task sr="task13">
+		<cdate>1404016493392</cdate>
+		<edate>1405113716189</edate>
+		<id>13</id>
+		<nme>Say Time</nme>
+		<pri>10</pri>
+		<Action sr="act0" ve="5">
+			<code>590</code>
+			<Str sr="arg0" ve="3">%TIME</Str>
+			<Str sr="arg1" ve="3">.</Str>
+			<Int sr="arg2" val="0"/>
+		</Action>
+		<Action sr="act1" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%TIME1</Str>
+			<Str sr="arg1" ve="3">%TIME1</Str>
+			<Int sr="arg2" val="1"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act2" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%TIME1</Str>
+			<Str sr="arg1" ve="3">%TIME1 - 12</Str>
+			<Int sr="arg2" val="1"/>
+			<Int sr="arg3" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="2">
+					<lhs>%TIME1</lhs>
+					<op>3</op>
+					<rhs>12</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act3" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%TIME2</Str>
+			<Str sr="arg1" ve="3">o'clock</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="2">
+					<lhs>%TIME2</lhs>
+					<op>0</op>
+					<rhs>00</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+	</Task>
+	<Task sr="task16">
+		<cdate>1404018091184</cdate>
+		<edate>1406732908880</edate>
+		<id>16</id>
+		<nme>Now Playing</nme>
+		<pri>10</pri>
+		<Action sr="act0" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%MPLAYING</Str>
+			<Str sr="arg1" ve="3">1</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task17">
+		<cdate>1404018185177</cdate>
+		<edate>1406732960918</edate>
+		<id>17</id>
+		<nme>Now Not Playing</nme>
+		<Action sr="act0" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%MPLAYING</Str>
+			<Str sr="arg1" ve="3">0</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task18">
+		<cdate>1405116069158</cdate>
+		<edate>1406743634763</edate>
+		<id>18</id>
+		<nme>Shutdown</nme>
+		<Action sr="act0" ve="5">
+			<code>130</code>
+			<Str sr="arg0" ve="3">Off</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="5"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+		</Action>
+	</Task>
+	<Task sr="task19">
+		<cdate>1404095955164</cdate>
+		<edate>1406226117052</edate>
+		<id>19</id>
+		<nme>Speed Volume Control Plus</nme>
+		<pri>10</pri>
+		<Action sr="act0" ve="5">
+			<code>37</code>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="2">
+					<lhs>%LOCACC</lhs>
+					<op>2</op>
+					<rhs>20</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act1" ve="5">
+			<code>307</code>
+			<Int sr="arg0">
+				<var>%Vol0</var>
+			</Int>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+			<ConditionList sr="if">
+				<bool0>Or2</bool0>
+				<bool1>And</bool1>
+				<Condition sr="c0" ve="2">
+					<lhs>%LOCSPD</lhs>
+					<op>2</op>
+					<rhs>((%Shld1-%ShldDelta)*%ShldUnits*1000/3600)</rhs>
+				</Condition>
+				<Condition sr="c1" ve="2">
+					<lhs>%LOCSPD</lhs>
+					<op>4</op>
+					<rhs>((%Shld1-%ShldDelta)*%ShldUnits*1000/3600)</rhs>
+				</Condition>
+				<Condition sr="c2" ve="2">
+					<lhs>%VOLM</lhs>
+					<op>3</op>
+					<rhs>%Vol0</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act10" ve="5">
+			<code>307</code>
+			<Int sr="arg0">
+				<var>%Vol4</var>
+			</Int>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+			<ConditionList sr="if">
+				<bool0>And</bool0>
+				<bool1>Or2</bool1>
+				<bool2>And</bool2>
+				<Condition sr="c0" ve="2">
+					<lhs>%LOCSPD</lhs>
+					<op>2</op>
+					<rhs>((%Shld5+%ShldDelta)*%ShldUnits*1000/3600)</rhs>
+				</Condition>
+				<Condition sr="c1" ve="2">
+					<lhs>%LOCSPD</lhs>
+					<op>3</op>
+					<rhs>((%Shld4+%ShldDelta)*%ShldUnits*1000/3600)</rhs>
+				</Condition>
+				<Condition sr="c2" ve="2">
+					<lhs>%LOCSPD</lhs>
+					<op>4</op>
+					<rhs>((%Shld4+%ShldDelta)*%ShldUnits*1000/3600)</rhs>
+				</Condition>
+				<Condition sr="c3" ve="2">
+					<lhs>%VOLM</lhs>
+					<op>2</op>
+					<rhs>%Vol4</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act11" ve="5">
+			<code>307</code>
+			<Int sr="arg0">
+				<var>%Vol5</var>
+			</Int>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+			<ConditionList sr="if">
+				<bool0>And</bool0>
+				<Condition sr="c0" ve="2">
+					<lhs>%LOCSPD</lhs>
+					<op>3</op>
+					<rhs>((%Shld5-%ShldDelta)*%ShldUnits*1000/3600)</rhs>
+				</Condition>
+				<Condition sr="c1" ve="2">
+					<lhs>%VOLM</lhs>
+					<op>4</op>
+					<rhs>%Vol5</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act12" ve="5">
+			<code>307</code>
+			<Int sr="arg0">
+				<var>%Vol5</var>
+			</Int>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+			<ConditionList sr="if">
+				<bool0>Or2</bool0>
+				<bool1>And</bool1>
+				<Condition sr="c0" ve="2">
+					<lhs>%LOCSPD</lhs>
+					<op>3</op>
+					<rhs>((%Shld5+%ShldDelta)*%ShldUnits*1000/3600)</rhs>
+				</Condition>
+				<Condition sr="c1" ve="2">
+					<lhs>%LOCSPD</lhs>
+					<op>4</op>
+					<rhs>((%Shld5+%ShldDelta)*%ShldUnits*1000/3600)</rhs>
+				</Condition>
+				<Condition sr="c2" ve="2">
+					<lhs>%VOLM</lhs>
+					<op>2</op>
+					<rhs>%Vol5</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act13" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%Speed</Str>
+			<Str sr="arg1" ve="3">%LOCSPD*3600/1000</Str>
+			<Int sr="arg2" val="1"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act14" ve="5">
+			<code>548</code>
+			<Str sr="arg0" ve="3">%Speed =&gt; %VOLM</Str>
+			<Int sr="arg1" val="0"/>
+		</Action>
+		<Action sr="act15" ve="5">
+			<code>38</code>
+		</Action>
+		<Action sr="act16" ve="5">
+			<code>30</code>
+			<Int sr="arg0" val="0"/>
+			<Int sr="arg1" val="2"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+		<Action sr="act17" ve="5">
+			<code>135</code>
+			<Int sr="arg0" val="0"/>
+			<Int sr="arg1" val="1"/>
+			<Str sr="arg2" ve="3"/>
+		</Action>
+		<Action sr="act2" ve="5">
+			<code>307</code>
+			<Int sr="arg0">
+				<var>%Vol0</var>
+			</Int>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+			<ConditionList sr="if">
+				<bool0>And</bool0>
+				<bool1>Or2</bool1>
+				<Condition sr="c0" ve="2">
+					<lhs>%LOCSPD</lhs>
+					<op>2</op>
+					<rhs>((%Shld1+%ShldDelta)*%ShldUnits*1000/3600)</rhs>
+				</Condition>
+				<Condition sr="c1" ve="2">
+					<lhs>%VOLM</lhs>
+					<op>4</op>
+					<rhs>%Vol0</rhs>
+				</Condition>
+				<Condition sr="c2" ve="2">
+					<lhs>%VOLM</lhs>
+					<op>2</op>
+					<rhs>%Vol0</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act3" ve="5">
+			<code>307</code>
+			<Int sr="arg0">
+				<var>%Vol1</var>
+			</Int>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+			<ConditionList sr="if">
+				<bool0>And</bool0>
+				<bool1>And</bool1>
+				<bool2>Or2</bool2>
+				<Condition sr="c0" ve="2">
+					<lhs>%LOCSPD</lhs>
+					<op>2</op>
+					<rhs>((%Shld2-%ShldDelta)*%ShldUnits*1000/3600)</rhs>
+				</Condition>
+				<Condition sr="c1" ve="2">
+					<lhs>%LOCSPD</lhs>
+					<op>3</op>
+					<rhs>((%Shld1-%ShldDelta)*%ShldUnits*1000/3600)</rhs>
+				</Condition>
+				<Condition sr="c2" ve="2">
+					<lhs>%VOLM</lhs>
+					<op>3</op>
+					<rhs>%Vol1</rhs>
+				</Condition>
+				<Condition sr="c3" ve="2">
+					<lhs>%VOLM</lhs>
+					<op>4</op>
+					<rhs>%Vol1</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act4" ve="5">
+			<code>307</code>
+			<Int sr="arg0">
+				<var>%Vol1</var>
+			</Int>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+			<ConditionList sr="if">
+				<bool0>And</bool0>
+				<bool1>Or2</bool1>
+				<bool2>And</bool2>
+				<Condition sr="c0" ve="2">
+					<lhs>%LOCSPD</lhs>
+					<op>2</op>
+					<rhs>((%Shld2+%ShldDelta)*%ShldUnits*1000/3600)</rhs>
+				</Condition>
+				<Condition sr="c1" ve="2">
+					<lhs>%LOCSPD</lhs>
+					<op>3</op>
+					<rhs>((%Shld1+%ShldDelta)*%ShldUnits*1000/3600)</rhs>
+				</Condition>
+				<Condition sr="c2" ve="2">
+					<lhs>%LOCSPD</lhs>
+					<op>4</op>
+					<rhs>((%Shld1+%ShldDelta)*%ShldUnits*1000/3600)</rhs>
+				</Condition>
+				<Condition sr="c3" ve="2">
+					<lhs>%VOLM</lhs>
+					<op>2</op>
+					<rhs>%Vol1</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act5" ve="5">
+			<code>307</code>
+			<Int sr="arg0">
+				<var>%Vol2</var>
+			</Int>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+			<ConditionList sr="if">
+				<bool0>And</bool0>
+				<bool1>And</bool1>
+				<bool2>Or2</bool2>
+				<Condition sr="c0" ve="2">
+					<lhs>%LOCSPD</lhs>
+					<op>2</op>
+					<rhs>((%Shld3-%ShldDelta)*%ShldUnits*1000/3600)</rhs>
+				</Condition>
+				<Condition sr="c1" ve="2">
+					<lhs>%LOCSPD</lhs>
+					<op>3</op>
+					<rhs>((%Shld2-%ShldDelta)*%ShldUnits*1000/3600)</rhs>
+				</Condition>
+				<Condition sr="c2" ve="2">
+					<lhs>%VOLM</lhs>
+					<op>3</op>
+					<rhs>%Vol2</rhs>
+				</Condition>
+				<Condition sr="c3" ve="2">
+					<lhs>%VOLM</lhs>
+					<op>4</op>
+					<rhs>%Vol2</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act6" ve="5">
+			<code>307</code>
+			<Int sr="arg0">
+				<var>%Vol2</var>
+			</Int>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+			<ConditionList sr="if">
+				<bool0>And</bool0>
+				<bool1>Or2</bool1>
+				<bool2>And</bool2>
+				<Condition sr="c0" ve="2">
+					<lhs>%LOCSPD</lhs>
+					<op>2</op>
+					<rhs>((%Shld3+%ShldDelta)*%ShldUnits*1000/3600)</rhs>
+				</Condition>
+				<Condition sr="c1" ve="2">
+					<lhs>%LOCSPD</lhs>
+					<op>3</op>
+					<rhs>((%Shld2+%ShldDelta)*%ShldUnits*1000/3600)</rhs>
+				</Condition>
+				<Condition sr="c2" ve="2">
+					<lhs>%LOCSPD</lhs>
+					<op>4</op>
+					<rhs>((%Shld2+%ShldDelta)*%ShldUnits*1000/3600)</rhs>
+				</Condition>
+				<Condition sr="c3" ve="2">
+					<lhs>%VOLM</lhs>
+					<op>2</op>
+					<rhs>%Vol2</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act7" ve="5">
+			<code>307</code>
+			<Int sr="arg0">
+				<var>%Vol3</var>
+			</Int>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+			<ConditionList sr="if">
+				<bool0>And</bool0>
+				<bool1>And</bool1>
+				<bool2>Or2</bool2>
+				<Condition sr="c0" ve="2">
+					<lhs>%LOCSPD</lhs>
+					<op>2</op>
+					<rhs>((%Shld4-%ShldDelta)*%ShldUnits*1000/3600)</rhs>
+				</Condition>
+				<Condition sr="c1" ve="2">
+					<lhs>%LOCSPD</lhs>
+					<op>3</op>
+					<rhs>((%Shld3-%ShldDelta)*%ShldUnits*1000/3600)</rhs>
+				</Condition>
+				<Condition sr="c2" ve="2">
+					<lhs>%VOLM</lhs>
+					<op>3</op>
+					<rhs>%Vol3</rhs>
+				</Condition>
+				<Condition sr="c3" ve="2">
+					<lhs>%VOLM</lhs>
+					<op>4</op>
+					<rhs>%Vol3</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act8" ve="5">
+			<code>307</code>
+			<Int sr="arg0">
+				<var>%Vol3</var>
+			</Int>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+			<ConditionList sr="if">
+				<bool0>And</bool0>
+				<bool1>Or2</bool1>
+				<bool2>And</bool2>
+				<Condition sr="c0" ve="2">
+					<lhs>%LOCSPD</lhs>
+					<op>2</op>
+					<rhs>((%Shld4+%ShldDelta)*%ShldUnits*1000/3600)</rhs>
+				</Condition>
+				<Condition sr="c1" ve="2">
+					<lhs>%LOCSPD</lhs>
+					<op>3</op>
+					<rhs>((%Shld3+%ShldDelta)*%ShldUnits*1000/3600)</rhs>
+				</Condition>
+				<Condition sr="c2" ve="2">
+					<lhs>%LOCSPD</lhs>
+					<op>4</op>
+					<rhs>((%Shld3+%ShldDelta)*%ShldUnits*1000/3600)</rhs>
+				</Condition>
+				<Condition sr="c3" ve="2">
+					<lhs>%VOLM</lhs>
+					<op>2</op>
+					<rhs>%Vol3</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act9" ve="5">
+			<code>307</code>
+			<Int sr="arg0">
+				<var>%Vol4</var>
+			</Int>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+			<ConditionList sr="if">
+				<bool0>And</bool0>
+				<bool1>And</bool1>
+				<bool2>Or2</bool2>
+				<Condition sr="c0" ve="2">
+					<lhs>%LOCSPD</lhs>
+					<op>2</op>
+					<rhs>((%Shld5-%ShldDelta)*%ShldUnits*1000/3600)</rhs>
+				</Condition>
+				<Condition sr="c1" ve="2">
+					<lhs>%LOCSPD</lhs>
+					<op>3</op>
+					<rhs>((%Shld4-%ShldDelta)*%ShldUnits*1000/3600)</rhs>
+				</Condition>
+				<Condition sr="c2" ve="2">
+					<lhs>%VOLM</lhs>
+					<op>3</op>
+					<rhs>%Vol4</rhs>
+				</Condition>
+				<Condition sr="c3" ve="2">
+					<lhs>%VOLM</lhs>
+					<op>4</op>
+					<rhs>%Vol4</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+	</Task>
+	<Task sr="task20">
+		<cdate>1404174095845</cdate>
+		<edate>1404395050601</edate>
+		<id>20</id>
+		<nme>Init Vars</nme>
+		<pri>10</pri>
+		<Action sr="act0" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%Shld1</Str>
+			<Str sr="arg1" ve="3">40</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act1" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%Shld2</Str>
+			<Str sr="arg1" ve="3">70</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act10" ve="5">
+			<code>547</code>
+			<label>Media volume for speed interval 3 %Shld3 to %Shld4</label>
+			<Str sr="arg0" ve="3">%Vol3</Str>
+			<Str sr="arg1" ve="3">13</Str>
+			<Int sr="arg2" val="1"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act11" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%Vol4</Str>
+			<Str sr="arg1" ve="3">14</Str>
+			<Int sr="arg2" val="1"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act12" ve="5">
+			<code>547</code>
+			<label>maximum Media volume for speeds above last speed interval</label>
+			<Str sr="arg0" ve="3">%Vol5</Str>
+			<Str sr="arg1" ve="3">15</Str>
+			<Int sr="arg2" val="1"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act2" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%Shld3</Str>
+			<Str sr="arg1" ve="3">80</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act3" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%Shld4</Str>
+			<Str sr="arg1" ve="3">90</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act4" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%Shld5</Str>
+			<Str sr="arg1" ve="3">100</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act5" ve="5">
+			<code>547</code>
+			<label>delta for speed. high values prevents volume frequent flickering</label>
+			<Str sr="arg0" ve="3">%ShldDelta</Str>
+			<Str sr="arg1" ve="3">1</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act6" ve="5">
+			<code>547</code>
+			<label>1 for Km/h, 1.6 for Mph, 1.8 for Knots</label>
+			<Str sr="arg0" ve="3">%ShldUnits</Str>
+			<Str sr="arg1" ve="3">1</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act7" ve="5">
+			<code>547</code>
+			<label>default Media volume</label>
+			<Str sr="arg0" ve="3">%Vol0</Str>
+			<Str sr="arg1" ve="3">13</Str>
+			<Int sr="arg2" val="1"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act8" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%Vol1</Str>
+			<Str sr="arg1" ve="3">11</Str>
+			<Int sr="arg2" val="1"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act9" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%Vol2</Str>
+			<Str sr="arg1" ve="3">12</Str>
+			<Int sr="arg2" val="1"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task21">
+		<cdate>1405912820470</cdate>
+		<edate>1406299421045</edate>
+		<id>21</id>
+		<nme>Remote: Switch Apps</nme>
+		<Action sr="act0" ve="5">
+			<code>548</code>
+			<on>false</on>
+			<Str sr="arg0" ve="3">%ACTIVE_APP</Str>
+			<Int sr="arg1" val="0"/>
+		</Action>
+		<Action sr="act1" ve="5">
+			<code>37</code>
+			<ConditionList sr="if">
+				<bool0>Or</bool0>
+				<Condition sr="c0" ve="2">
+					<lhs>%ACTIVE_APP</lhs>
+					<op>0</op>
+					<rhs>none</rhs>
+				</Condition>
+				<Condition sr="c1" ve="2">
+					<lhs>%ACTIVE_APP</lhs>
+					<op>0</op>
+					<rhs>navigation</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act2" ve="5">
+			<code>20</code>
+			<se>false</se>
+			<App sr="arg0">
+				<appClass>com.android.music.activitymanagement.TopLevelActivity</appClass>
+				<appPkg>com.google.android.music</appPkg>
+				<label>Play Music</label>
+			</App>
+			<Str sr="arg1" ve="3">f</Str>
+			<Int sr="arg2" val="0"/>
+		</Action>
+		<Action sr="act3" ve="5">
+			<code>38</code>
+		</Action>
+		<Action sr="act4" ve="5">
+			<code>37</code>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="2">
+					<lhs>%ACTIVE_APP</lhs>
+					<op>0</op>
+					<rhs>music</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act5" ve="5">
+			<code>30</code>
+			<on>false</on>
+			<Int sr="arg0" val="55"/>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+		<Action sr="act6" ve="5">
+			<code>703</code>
+			<se>false</se>
+			<Int sr="arg0" val="0"/>
+		</Action>
+		<Action sr="act7" ve="5">
+			<code>703</code>
+			<se>false</se>
+			<Int sr="arg0" val="0"/>
+		</Action>
+		<Action sr="act8" ve="5">
+			<code>20</code>
+			<se>false</se>
+			<App sr="arg0">
+				<appClass>com.navigon.navigator_checkout_na.hmi.CheckExistingRegistrationActivity</appClass>
+				<appPkg>com.navigon.navigator_checkout_na</appPkg>
+				<label>NAVIGON</label>
+			</App>
+			<Str sr="arg1" ve="3"/>
+			<Int sr="arg2" val="0"/>
+		</Action>
+		<Action sr="act9" ve="5">
+			<code>38</code>
+		</Action>
+		<Img sr="icn" ve="2">
+			<cls>com.android.music.activitymanagement.TopLevelActivity</cls>
+			<pkg>com.google.android.music</pkg>
+		</Img>
+	</Task>
+	<Task sr="task22">
+		<cdate>1406297527087</cdate>
+		<edate>1406297603796</edate>
+		<id>22</id>
+		<nme>Set Active App To Music</nme>
+		<Action sr="act0" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%ACTIVE_APP</Str>
+			<Str sr="arg1" ve="3">music</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task23">
+		<cdate>1406297527087</cdate>
+		<edate>1406297653585</edate>
+		<id>23</id>
+		<nme>Set Active App To Navigation</nme>
+		<Action sr="act0" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%ACTIVE_APP</Str>
+			<Str sr="arg1" ve="3">navigation</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task24">
+		<cdate>1406297527087</cdate>
+		<edate>1406298247151</edate>
+		<id>24</id>
+		<nme>Set Active App To None</nme>
+		<Action sr="act0" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%ACTIVE_APP</Str>
+			<Str sr="arg1" ve="3">none</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task26">
+		<cdate>1405912820470</cdate>
+		<edate>1406299379093</edate>
+		<id>26</id>
+		<nme>Remote: Switch Long Press</nme>
+		<pri>10</pri>
+		<Action sr="act0" ve="5">
+			<code>171</code>
+			<Int sr="arg0" val="9408"/>
+			<Int sr="arg1" val="105"/>
+			<Int sr="arg2" val="30"/>
+			<Int sr="arg3" val="3"/>
+		</Action>
+		<Action sr="act1" ve="5">
+			<code>548</code>
+			<on>false</on>
+			<Str sr="arg0" ve="3">%ACTIVE_APP</Str>
+			<Int sr="arg1" val="0"/>
+		</Action>
+		<Action sr="act2" ve="5">
+			<code>37</code>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="2">
+					<lhs>%ACTIVE_APP</lhs>
+					<op>0</op>
+					<rhs>music</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act3" ve="5">
+			<code>703</code>
+			<se>false</se>
+			<Int sr="arg0" val="0"/>
+		</Action>
+		<Action sr="act4" ve="5">
+			<code>703</code>
+			<se>false</se>
+			<Int sr="arg0" val="0"/>
+		</Action>
+		<Action sr="act5" ve="5">
+			<code>38</code>
+		</Action>
+		<Img sr="icn" ve="2">
+			<cls>com.android.music.activitymanagement.TopLevelActivity</cls>
+			<pkg>com.google.android.music</pkg>
+		</Img>
+	</Task>
+	<Task sr="task27">
+		<cdate>1405912820470</cdate>
+		<edate>1406300051288</edate>
+		<id>27</id>
+		<nme>Remote: Previous Long Press</nme>
+		<pri>10</pri>
+		<Action sr="act0" ve="5">
+			<code>171</code>
+			<Int sr="arg0" val="9408"/>
+			<Int sr="arg1" val="105"/>
+			<Int sr="arg2" val="30"/>
+			<Int sr="arg3" val="3"/>
+		</Action>
+		<Action sr="act1" ve="5">
+			<code>548</code>
+			<on>false</on>
+			<Str sr="arg0" ve="3">%ACTIVE_APP</Str>
+			<Int sr="arg1" val="0"/>
+		</Action>
+		<Action sr="act2" ve="5">
+			<code>37</code>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="2">
+					<lhs>%ACTIVE_APP</lhs>
+					<op>0</op>
+					<rhs>music</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act3" ve="5">
+			<code>703</code>
+			<se>false</se>
+			<Int sr="arg0" val="0"/>
+		</Action>
+		<Action sr="act4" ve="5">
+			<code>703</code>
+			<se>false</se>
+			<Int sr="arg0" val="0"/>
+		</Action>
+		<Action sr="act5" ve="5">
+			<code>38</code>
+		</Action>
+		<Action sr="act6" ve="5">
+			<code>23623</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<com.batescorp.notificationmediacontrols.shortcuts.MediaControlShortCutAction.KEYCODE>88</com.batescorp.notificationmediacontrols.shortcuts.MediaControlShortCutAction.KEYCODE>
+					<com.batescorp.notificationmediacontrols.shortcuts.MediaControlShortCutAction.KEYCODE-type>java.lang.Integer</com.batescorp.notificationmediacontrols.shortcuts.MediaControlShortCutAction.KEYCODE-type>
+					<com.twofortyfouram.locale.intent.extra.BLURB>Previous</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.batescorp.notificationmediacontrols.alpha</Str>
+			<Str sr="arg2" ve="3">Media Utilities Action</Str>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act7" ve="5">
+			<code>23623</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<com.batescorp.notificationmediacontrols.shortcuts.MediaControlShortCutAction.KEYCODE>88</com.batescorp.notificationmediacontrols.shortcuts.MediaControlShortCutAction.KEYCODE>
+					<com.batescorp.notificationmediacontrols.shortcuts.MediaControlShortCutAction.KEYCODE-type>java.lang.Integer</com.batescorp.notificationmediacontrols.shortcuts.MediaControlShortCutAction.KEYCODE-type>
+					<com.twofortyfouram.locale.intent.extra.BLURB>Previous</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.batescorp.notificationmediacontrols.alpha</Str>
+			<Str sr="arg2" ve="3">Media Utilities Action</Str>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Img sr="icn" ve="2">
+			<cls>com.android.music.activitymanagement.TopLevelActivity</cls>
+			<pkg>com.google.android.music</pkg>
+		</Img>
+	</Task>
+	<Task sr="task28">
+		<cdate>1405912820470</cdate>
+		<edate>1406598060417</edate>
+		<id>28</id>
+		<nme>Remote: Playlist Change</nme>
+		<pri>10</pri>
+		<Action sr="act0" ve="5">
+			<code>171</code>
+			<Int sr="arg0" val="9408"/>
+			<Int sr="arg1" val="105"/>
+			<Int sr="arg2" val="30"/>
+			<Int sr="arg3" val="3"/>
+		</Action>
+		<Action sr="act1" ve="5">
+			<code>37</code>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="2">
+					<lhs>%ACTIVE_APP</lhs>
+					<op>0</op>
+					<rhs>music</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act10" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%PlaylistName</Str>
+			<Str sr="arg1" ve="3">hooked</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="2">
+					<lhs>%PlaylistN</lhs>
+					<op>4</op>
+					<rhs>6</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act11" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%PlaylistName</Str>
+			<Str sr="arg1" ve="3">jazz</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="2">
+					<lhs>%PlaylistN</lhs>
+					<op>4</op>
+					<rhs>7</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act12" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%PlaylistName</Str>
+			<Str sr="arg1" ve="3">lounge</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="2">
+					<lhs>%PlaylistN</lhs>
+					<op>4</op>
+					<rhs>8</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act13" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%PlaylistName</Str>
+			<Str sr="arg1" ve="3">украинские</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="2">
+					<lhs>%PlaylistN</lhs>
+					<op>4</op>
+					<rhs>9</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act14" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%PlaylistName</Str>
+			<Str sr="arg1" ve="3">русские</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="2">
+					<lhs>%PlaylistN</lhs>
+					<op>4</op>
+					<rhs>10</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act15" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%PlaylistName</Str>
+			<Str sr="arg1" ve="3">сказки</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="2">
+					<lhs>%PlaylistN</lhs>
+					<op>4</op>
+					<rhs>11</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act16" ve="5">
+			<code>37</code>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="2">
+					<lhs>%PlaylistName</lhs>
+					<op>10</op>
+					<rhs>[а-яА-Я]</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act17" ve="5">
+			<code>559</code>
+			<se>false</se>
+			<Str sr="arg0" ve="3">Проигрываю :
+%PlaylistName</Str>
+			<Str sr="arg1" ve="3">com.ivona.tts.oem:rus-RUS-tatyana</Str>
+			<Int sr="arg2" val="3"/>
+			<Int sr="arg3" val="5"/>
+			<Int sr="arg4" val="5"/>
+			<Int sr="arg5" val="1"/>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+		</Action>
+		<Action sr="act18" ve="5">
+			<code>43</code>
+		</Action>
+		<Action sr="act19" ve="5">
+			<code>559</code>
+			<se>false</se>
+			<Str sr="arg0" ve="3">Playing %PlaylistName playlist</Str>
+			<Str sr="arg1" ve="3">com.ivona.tts.oem:eng-GBR-brian</Str>
+			<Int sr="arg2" val="3"/>
+			<Int sr="arg3" val="5"/>
+			<Int sr="arg4" val="5"/>
+			<Int sr="arg5" val="1"/>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+		</Action>
+		<Action sr="act2" ve="5">
+			<code>703</code>
+			<se>false</se>
+			<Int sr="arg0" val="0"/>
+		</Action>
+		<Action sr="act20" ve="5">
+			<code>38</code>
+		</Action>
+		<Action sr="act21" ve="5">
+			<code>8263</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<com.twofortyfouram.locale.intent.extra.BLURB>Alternative</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<intent>#Intent;action=android.intent.action.VIEW;type=vnd.android.cursor.dir/vnd.google.music.playlist;l.playlistId=44;end</intent>
+					<intent-type>java.lang.String</intent-type>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>intent </net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.joaomgcd.autoshortcut</Str>
+			<Str sr="arg2" ve="3">AutoShortcut</Str>
+			<Int sr="arg3" val="2840"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="2">
+					<lhs>%PlaylistN</lhs>
+					<op>4</op>
+					<rhs>1</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act22" ve="5">
+			<code>8263</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<com.twofortyfouram.locale.intent.extra.BLURB>Classics</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<intent>#Intent;action=android.intent.action.VIEW;type=vnd.android.cursor.dir/vnd.google.music.playlist;l.playlistId=27;end</intent>
+					<intent-type>java.lang.String</intent-type>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>intent </net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.joaomgcd.autoshortcut</Str>
+			<Str sr="arg2" ve="3">AutoShortcut</Str>
+			<Int sr="arg3" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="2">
+					<lhs>%PlaylistN</lhs>
+					<op>4</op>
+					<rhs>2</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act23" ve="5">
+			<code>8263</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<com.twofortyfouram.locale.intent.extra.BLURB>Dance</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<intent>#Intent;action=android.intent.action.VIEW;type=vnd.android.cursor.dir/vnd.google.music.playlist;l.playlistId=39;end</intent>
+					<intent-type>java.lang.String</intent-type>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>intent </net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.joaomgcd.autoshortcut</Str>
+			<Str sr="arg2" ve="3">AutoShortcut</Str>
+			<Int sr="arg3" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="2">
+					<lhs>%PlaylistN</lhs>
+					<op>4</op>
+					<rhs>3</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act24" ve="5">
+			<code>8263</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<com.twofortyfouram.locale.intent.extra.BLURB>Detskoe ENG</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<intent>#Intent;action=android.intent.action.VIEW;type=vnd.android.cursor.dir/vnd.google.music.playlist;l.playlistId=20;end</intent>
+					<intent-type>java.lang.String</intent-type>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>intent </net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.joaomgcd.autoshortcut</Str>
+			<Str sr="arg2" ve="3">AutoShortcut</Str>
+			<Int sr="arg3" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="2">
+					<lhs>%PlaylistN</lhs>
+					<op>4</op>
+					<rhs>4</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act25" ve="5">
+			<code>8263</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<com.twofortyfouram.locale.intent.extra.BLURB>Detskoe RUS</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<intent>#Intent;action=android.intent.action.VIEW;type=vnd.android.cursor.dir/vnd.google.music.playlist;l.playlistId=34;end</intent>
+					<intent-type>java.lang.String</intent-type>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>intent </net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.joaomgcd.autoshortcut</Str>
+			<Str sr="arg2" ve="3">AutoShortcut</Str>
+			<Int sr="arg3" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="2">
+					<lhs>%PlaylistN</lhs>
+					<op>4</op>
+					<rhs>5</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act26" ve="5">
+			<code>8263</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<com.twofortyfouram.locale.intent.extra.BLURB>Hooked</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<intent>#Intent;action=android.intent.action.VIEW;type=vnd.android.cursor.dir/vnd.google.music.playlist;l.playlistId=37;end</intent>
+					<intent-type>java.lang.String</intent-type>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>intent </net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.joaomgcd.autoshortcut</Str>
+			<Str sr="arg2" ve="3">AutoShortcut</Str>
+			<Int sr="arg3" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="2">
+					<lhs>%PlaylistN</lhs>
+					<op>4</op>
+					<rhs>6</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act27" ve="5">
+			<code>8263</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<com.twofortyfouram.locale.intent.extra.BLURB>Jazz</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<intent>#Intent;action=android.intent.action.VIEW;type=vnd.android.cursor.dir/vnd.google.music.playlist;l.playlistId=42;end</intent>
+					<intent-type>java.lang.String</intent-type>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>intent </net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.joaomgcd.autoshortcut</Str>
+			<Str sr="arg2" ve="3">AutoShortcut</Str>
+			<Int sr="arg3" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="2">
+					<lhs>%PlaylistN</lhs>
+					<op>4</op>
+					<rhs>7</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act28" ve="5">
+			<code>8263</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<com.twofortyfouram.locale.intent.extra.BLURB>Lounge</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<intent>#Intent;action=android.intent.action.VIEW;type=vnd.android.cursor.dir/vnd.google.music.playlist;l.playlistId=23;end</intent>
+					<intent-type>java.lang.String</intent-type>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>intent </net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.joaomgcd.autoshortcut</Str>
+			<Str sr="arg2" ve="3">AutoShortcut</Str>
+			<Int sr="arg3" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="2">
+					<lhs>%PlaylistN</lhs>
+					<op>4</op>
+					<rhs>8</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act29" ve="5">
+			<code>8263</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<com.twofortyfouram.locale.intent.extra.BLURB>UKR</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<intent>#Intent;action=android.intent.action.VIEW;type=vnd.android.cursor.dir/vnd.google.music.playlist;l.playlistId=35;end</intent>
+					<intent-type>java.lang.String</intent-type>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>intent </net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.joaomgcd.autoshortcut</Str>
+			<Str sr="arg2" ve="3">AutoShortcut</Str>
+			<Int sr="arg3" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="2">
+					<lhs>%PlaylistN</lhs>
+					<op>4</op>
+					<rhs>9</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act3" ve="5">
+			<code>703</code>
+			<se>false</se>
+			<Int sr="arg0" val="0"/>
+		</Action>
+		<Action sr="act30" ve="5">
+			<code>8263</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<com.twofortyfouram.locale.intent.extra.BLURB>Русское</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<intent>#Intent;action=android.intent.action.VIEW;type=vnd.android.cursor.dir/vnd.google.music.playlist;l.playlistId=43;end</intent>
+					<intent-type>java.lang.String</intent-type>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>intent </net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.joaomgcd.autoshortcut</Str>
+			<Str sr="arg2" ve="3">AutoShortcut</Str>
+			<Int sr="arg3" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="2">
+					<lhs>%PlaylistN</lhs>
+					<op>4</op>
+					<rhs>10</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act31" ve="5">
+			<code>8263</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<com.twofortyfouram.locale.intent.extra.BLURB>Сказки</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<intent>#Intent;action=android.intent.action.VIEW;type=vnd.android.cursor.dir/vnd.google.music.playlist;l.playlistId=41;end</intent>
+					<intent-type>java.lang.String</intent-type>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>intent </net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.joaomgcd.autoshortcut</Str>
+			<Str sr="arg2" ve="3">AutoShortcut</Str>
+			<Int sr="arg3" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="2">
+					<lhs>%PlaylistN</lhs>
+					<op>4</op>
+					<rhs>11</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act4" ve="5">
+			<code>38</code>
+		</Action>
+		<Action sr="act5" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%PlaylistName</Str>
+			<Str sr="arg1" ve="3">Alternative</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="2">
+					<lhs>%PlaylistN</lhs>
+					<op>4</op>
+					<rhs>1</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act6" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%PlaylistName</Str>
+			<Str sr="arg1" ve="3">Classical</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="2">
+					<lhs>%PlaylistN</lhs>
+					<op>4</op>
+					<rhs>2</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act7" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%PlaylistName</Str>
+			<Str sr="arg1" ve="3">Dance</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="2">
+					<lhs>%PlaylistN</lhs>
+					<op>4</op>
+					<rhs>3</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act8" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%PlaylistName</Str>
+			<Str sr="arg1" ve="3">kids songs</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="2">
+					<lhs>%PlaylistN</lhs>
+					<op>4</op>
+					<rhs>4</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act9" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%PlaylistName</Str>
+			<Str sr="arg1" ve="3">детские песни</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="2">
+					<lhs>%PlaylistN</lhs>
+					<op>4</op>
+					<rhs>5</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Img sr="icn" ve="2">
+			<cls>com.android.music.activitymanagement.TopLevelActivity</cls>
+			<pkg>com.google.android.music</pkg>
+		</Img>
+	</Task>
+	<Task sr="task29">
+		<cdate>1403918068626</cdate>
+		<edate>1406313449037</edate>
+		<id>29</id>
+		<nme>Say Playlist Name</nme>
+		<pri>10</pri>
+		<Action sr="act0" ve="5">
+			<code>37</code>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="2">
+					<lhs>%PlaylistName</lhs>
+					<op>10</op>
+					<rhs>[а-яА-Я]</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act1" ve="5">
+			<code>559</code>
+			<se>false</se>
+			<Str sr="arg0" ve="3">Проигрываю :
+%PlaylistName</Str>
+			<Str sr="arg1" ve="3">com.ivona.tts.oem:rus-RUS-tatyana</Str>
+			<Int sr="arg2" val="3"/>
+			<Int sr="arg3" val="5"/>
+			<Int sr="arg4" val="5"/>
+			<Int sr="arg5" val="1"/>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+		</Action>
+		<Action sr="act2" ve="5">
+			<code>43</code>
+		</Action>
+		<Action sr="act3" ve="5">
+			<code>559</code>
+			<se>false</se>
+			<Str sr="arg0" ve="3">Playing %PlaylistName playlist</Str>
+			<Str sr="arg1" ve="3">com.ivona.tts.oem:eng-GBR-brian</Str>
+			<Int sr="arg2" val="3"/>
+			<Int sr="arg3" val="5"/>
+			<Int sr="arg4" val="5"/>
+			<Int sr="arg5" val="1"/>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+		</Action>
+		<Action sr="act4" ve="5">
+			<code>38</code>
+		</Action>
+	</Task>
+	<Task sr="task3">
+		<cdate>1403459057246</cdate>
+		<edate>1406745641409</edate>
+		<id>3</id>
+		<nme>On</nme>
+		<pri>10</pri>
+		<Action sr="act0" ve="5">
+			<code>547</code>
+			<on>false</on>
+			<Str sr="arg0" ve="3">%DCPOWER</Str>
+			<Str sr="arg1" ve="3">1</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act1" ve="5">
+			<code>548</code>
+			<on>false</on>
+			<Str sr="arg0" ve="3">On Dc %DCPOWER on %ON_STARTED off %OFF_STARTED</Str>
+			<Int sr="arg1" val="0"/>
+		</Action>
+		<Action sr="act10" ve="5">
+			<code>130</code>
+			<Str sr="arg0" ve="3">Init Vars</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="5"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+		</Action>
+		<Action sr="act11" ve="5">
+			<code>307</code>
+			<Int sr="arg0">
+				<var>%Vol0</var>
+			</Int>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+		</Action>
+		<Action sr="act12" ve="5">
+			<code>20</code>
+			<App sr="arg0">
+				<appClass>com.navigon.navigator_checkout_na.hmi.CheckExistingRegistrationActivity</appClass>
+				<appPkg>com.navigon.navigator_checkout_na</appPkg>
+				<label>NAVIGON</label>
+			</App>
+			<Str sr="arg1" ve="3"/>
+			<Int sr="arg2" val="0"/>
+		</Action>
+		<Action sr="act13" ve="5">
+			<code>130</code>
+			<Str sr="arg0" ve="3">Say Time</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="5"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+		</Action>
+		<Action sr="act14" ve="5">
+			<code>30</code>
+			<Int sr="arg0" val="88"/>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+		<Action sr="act15" ve="5">
+			<code>559</code>
+			<se>false</se>
+			<Str sr="arg0" ve="3">Welcome on board! 
+Now : %TIME1 , %TIME2 .
+Have a nice trip.</Str>
+			<Str sr="arg1" ve="3">default:default</Str>
+			<Int sr="arg2" val="3"/>
+			<Int sr="arg3" val="5"/>
+			<Int sr="arg4" val="5"/>
+			<Int sr="arg5" val="1"/>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+		</Action>
+		<Action sr="act16" ve="5">
+			<code>30</code>
+			<Int sr="arg0" val="0"/>
+			<Int sr="arg1" val="3"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+		<Action sr="act17" ve="5">
+			<code>123</code>
+			<Str sr="arg0" ve="3">input tap 500 500</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="1"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+		</Action>
+		<Action sr="act18" ve="5">
+			<code>20</code>
+			<App sr="arg0">
+				<appClass>com.android.music.activitymanagement.TopLevelActivity</appClass>
+				<appPkg>com.google.android.music</appPkg>
+				<label>Play Music</label>
+			</App>
+			<Str sr="arg1" ve="3"/>
+			<Int sr="arg2" val="0"/>
+		</Action>
+		<Action sr="act19" ve="5">
+			<code>30</code>
+			<on>false</on>
+			<Int sr="arg0" val="0"/>
+			<Int sr="arg1" val="1"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+		<Action sr="act2" ve="5">
+			<code>37</code>
+			<ConditionList sr="if">
+				<bool0>And</bool0>
+				<bool1>And</bool1>
+				<Condition sr="c0" ve="2">
+					<lhs>%OFF_STARTED</lhs>
+					<op>4</op>
+					<rhs>1</rhs>
+				</Condition>
+				<Condition sr="c1" ve="2">
+					<lhs>%WasMusicPlaying</lhs>
+					<op>4</op>
+					<rhs>1</rhs>
+				</Condition>
+				<Condition sr="c2" ve="2">
+					<lhs>%ON_STARTED</lhs>
+					<op>4</op>
+					<rhs>0</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act20" ve="5">
+			<code>130</code>
+			<Str sr="arg0" ve="3">Resume Music</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="1"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+			<ConditionList sr="if">
+				<bool0>And</bool0>
+				<Condition sr="c0" ve="2">
+					<lhs>%WasMusicPlaying</lhs>
+					<op>4</op>
+					<rhs>1</rhs>
+				</Condition>
+				<Condition sr="c1" ve="2">
+					<lhs>%DCPOWER</lhs>
+					<op>4</op>
+					<rhs>1</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act21" ve="5">
+			<code>812</code>
+			<Int sr="arg0" val="0"/>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="23"/>
+		</Action>
+		<Action sr="act22" ve="5">
+			<code>6141</code>
+			<se>false</se>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<com.twofortyfouram.locale.intent.extra.BLURB>Enabled. Auto on. Refresh. Profile: Car </com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<com.vito.lux.locale.brightnessVal>0</com.vito.lux.locale.brightnessVal>
+					<com.vito.lux.locale.brightnessVal-type>java.lang.Integer</com.vito.lux.locale.brightnessVal-type>
+					<com.vito.lux.locale.checkedAstroID>2</com.vito.lux.locale.checkedAstroID>
+					<com.vito.lux.locale.checkedAstroID-type>java.lang.Integer</com.vito.lux.locale.checkedAstroID-type>
+					<com.vito.lux.locale.checkedEnableID>0</com.vito.lux.locale.checkedEnableID>
+					<com.vito.lux.locale.checkedEnableID-type>java.lang.Integer</com.vito.lux.locale.checkedEnableID-type>
+					<com.vito.lux.locale.checkedID>0</com.vito.lux.locale.checkedID>
+					<com.vito.lux.locale.checkedID-type>java.lang.Integer</com.vito.lux.locale.checkedID-type>
+					<com.vito.lux.locale.checkedNightID>2</com.vito.lux.locale.checkedNightID>
+					<com.vito.lux.locale.checkedNightID-type>java.lang.Integer</com.vito.lux.locale.checkedNightID-type>
+					<com.vito.lux.locale.checkedProfileID>3</com.vito.lux.locale.checkedProfileID>
+					<com.vito.lux.locale.checkedProfileID-type>java.lang.Integer</com.vito.lux.locale.checkedProfileID-type>
+					<com.vito.lux.locale.refresh>true</com.vito.lux.locale.refresh>
+					<com.vito.lux.locale.refresh-type>java.lang.Boolean</com.vito.lux.locale.refresh-type>
+					<com.vito.lux.locale.useManualBright>false</com.vito.lux.locale.useManualBright>
+					<com.vito.lux.locale.useManualBright-type>java.lang.Boolean</com.vito.lux.locale.useManualBright-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.vito.lux</Str>
+			<Str sr="arg2" ve="3">Lux Plug-in</Str>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act23" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%ON_STARTED</Str>
+			<Str sr="arg1" ve="3">0</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act24" ve="5">
+			<code>548</code>
+			<on>false</on>
+			<Str sr="arg0" ve="3">Dc %DCPOWER on %ON_STARTED off %OFF_STARTED</Str>
+			<Int sr="arg1" val="0"/>
+		</Action>
+		<Action sr="act3" ve="5">
+			<code>23623</code>
+			<se>false</se>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<com.batescorp.notificationmediacontrols.shortcuts.MediaControlShortCutAction.KEYCODE>-775</com.batescorp.notificationmediacontrols.shortcuts.MediaControlShortCutAction.KEYCODE>
+					<com.batescorp.notificationmediacontrols.shortcuts.MediaControlShortCutAction.KEYCODE-type>java.lang.Integer</com.batescorp.notificationmediacontrols.shortcuts.MediaControlShortCutAction.KEYCODE-type>
+					<com.twofortyfouram.locale.intent.extra.BLURB>Play (Smart)</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.batescorp.notificationmediacontrols.alpha</Str>
+			<Str sr="arg2" ve="3">Media Utilities Action</Str>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act4" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%WasMusicPlaying</Str>
+			<Str sr="arg1" ve="3">1</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act5" ve="5">
+			<code>38</code>
+		</Action>
+		<Action sr="act6" ve="5">
+			<code>135</code>
+			<Int sr="arg0" val="0"/>
+			<Int sr="arg1" val="24"/>
+			<Str sr="arg2" ve="3"/>
+			<ConditionList sr="if">
+				<bool0>Or</bool0>
+				<Condition sr="c0" ve="2">
+					<lhs>%ON_STARTED</lhs>
+					<op>4</op>
+					<rhs>1</rhs>
+				</Condition>
+				<Condition sr="c1" ve="2">
+					<lhs>%OFF_STARTED</lhs>
+					<op>4</op>
+					<rhs>1</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act7" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%ON_STARTED</Str>
+			<Str sr="arg1" ve="3">1</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act8" ve="5">
+			<code>11820</code>
+			<se>false</se>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<com.intangibleobject.securesettings.plugin.extra.BLURB>GPS Enabled</com.intangibleobject.securesettings.plugin.extra.BLURB>
+					<com.intangibleobject.securesettings.plugin.extra.BLURB-type>java.lang.String</com.intangibleobject.securesettings.plugin.extra.BLURB-type>
+					<com.intangibleobject.securesettings.plugin.extra.ENABLED>true</com.intangibleobject.securesettings.plugin.extra.ENABLED>
+					<com.intangibleobject.securesettings.plugin.extra.ENABLED-type>java.lang.Boolean</com.intangibleobject.securesettings.plugin.extra.ENABLED-type>
+					<com.intangibleobject.securesettings.plugin.extra.SETTING>gps</com.intangibleobject.securesettings.plugin.extra.SETTING>
+					<com.intangibleobject.securesettings.plugin.extra.SETTING-type>java.lang.String</com.intangibleobject.securesettings.plugin.extra.SETTING-type>
+					<com.twofortyfouram.locale.intent.extra.BLURB>GPS Enabled</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.intangibleobject.securesettings.plugin</Str>
+			<Str sr="arg2" ve="3">Secure Settings</Str>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act9" ve="5">
+			<code>294</code>
+			<Int sr="arg0" val="1"/>
+		</Action>
+	</Task>
+	<Task sr="task30">
+		<cdate>1406690764630</cdate>
+		<edate>1406745218024</edate>
+		<id>30</id>
+		<nme>DC ON</nme>
+		<pri>10</pri>
+		<Action sr="act0" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%DCPOWER</Str>
+			<Str sr="arg1" ve="3">1</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act1" ve="5">
+			<code>548</code>
+			<on>false</on>
+			<Str sr="arg0" ve="3">On Dc %DCPOWER on %ON_STARTED off %OFF_STARTED</Str>
+			<Int sr="arg1" val="0"/>
+		</Action>
+		<Action sr="act2" ve="5">
+			<code>6141</code>
+			<se>false</se>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<com.twofortyfouram.locale.intent.extra.BLURB>Enabled. Auto on. Refresh. Profile: Car </com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<com.vito.lux.locale.brightnessVal>0</com.vito.lux.locale.brightnessVal>
+					<com.vito.lux.locale.brightnessVal-type>java.lang.Integer</com.vito.lux.locale.brightnessVal-type>
+					<com.vito.lux.locale.checkedAstroID>2</com.vito.lux.locale.checkedAstroID>
+					<com.vito.lux.locale.checkedAstroID-type>java.lang.Integer</com.vito.lux.locale.checkedAstroID-type>
+					<com.vito.lux.locale.checkedEnableID>0</com.vito.lux.locale.checkedEnableID>
+					<com.vito.lux.locale.checkedEnableID-type>java.lang.Integer</com.vito.lux.locale.checkedEnableID-type>
+					<com.vito.lux.locale.checkedID>0</com.vito.lux.locale.checkedID>
+					<com.vito.lux.locale.checkedID-type>java.lang.Integer</com.vito.lux.locale.checkedID-type>
+					<com.vito.lux.locale.checkedNightID>2</com.vito.lux.locale.checkedNightID>
+					<com.vito.lux.locale.checkedNightID-type>java.lang.Integer</com.vito.lux.locale.checkedNightID-type>
+					<com.vito.lux.locale.checkedProfileID>3</com.vito.lux.locale.checkedProfileID>
+					<com.vito.lux.locale.checkedProfileID-type>java.lang.Integer</com.vito.lux.locale.checkedProfileID-type>
+					<com.vito.lux.locale.refresh>true</com.vito.lux.locale.refresh>
+					<com.vito.lux.locale.refresh-type>java.lang.Boolean</com.vito.lux.locale.refresh-type>
+					<com.vito.lux.locale.useManualBright>false</com.vito.lux.locale.useManualBright>
+					<com.vito.lux.locale.useManualBright-type>java.lang.Boolean</com.vito.lux.locale.useManualBright-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.vito.lux</Str>
+			<Str sr="arg2" ve="3">Lux Plug-in</Str>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act3" ve="5">
+			<code>130</code>
+			<Str sr="arg0" ve="3">On</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="5"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+		</Action>
+	</Task>
+	<Task sr="task31">
+		<cdate>1406597970858</cdate>
+		<edate>1406598346923</edate>
+		<id>31</id>
+		<nme>Remote: Next Playlist</nme>
+		<pri>10</pri>
+		<Action sr="act0" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%PlaylistN</Str>
+			<Str sr="arg1" ve="3">(%PlaylistN+1)</Str>
+			<Int sr="arg2" val="1"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act1" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%PlaylistN</Str>
+			<Str sr="arg1" ve="3">1</Str>
+			<Int sr="arg2" val="1"/>
+			<Int sr="arg3" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="2">
+					<lhs>%PlaylistN</lhs>
+					<op>3</op>
+					<rhs>11</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act2" ve="5">
+			<code>130</code>
+			<Str sr="arg0" ve="3">Remote: Playlist Change</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="5"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+		</Action>
+		<Img sr="icn" ve="2">
+			<cls>com.android.music.activitymanagement.TopLevelActivity</cls>
+			<pkg>com.google.android.music</pkg>
+		</Img>
+	</Task>
+	<Task sr="task32">
+		<cdate>1406597970858</cdate>
+		<edate>1406598394006</edate>
+		<id>32</id>
+		<nme>Remote:  Privious Playlist</nme>
+		<pri>10</pri>
+		<Action sr="act0" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%PlaylistN</Str>
+			<Str sr="arg1" ve="3">(%PlaylistN-1)</Str>
+			<Int sr="arg2" val="1"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act1" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%PlaylistN</Str>
+			<Str sr="arg1" ve="3">11</Str>
+			<Int sr="arg2" val="1"/>
+			<Int sr="arg3" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="2">
+					<lhs>%PlaylistN</lhs>
+					<op>2</op>
+					<rhs>1</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act2" ve="5">
+			<code>130</code>
+			<Str sr="arg0" ve="3">Remote: Playlist Change</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="5"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+		</Action>
+		<Img sr="icn" ve="2">
+			<cls>com.android.music.activitymanagement.TopLevelActivity</cls>
+			<pkg>com.google.android.music</pkg>
+		</Img>
+	</Task>
+	<Task sr="task33">
+		<cdate>1406690853173</cdate>
+		<edate>1406745283299</edate>
+		<id>33</id>
+		<nme>DC OFF</nme>
+		<pri>10</pri>
+		<Action sr="act0" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%DCPOWER</Str>
+			<Str sr="arg1" ve="3">0</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act1" ve="5">
+			<code>130</code>
+			<Str sr="arg0" ve="3">Off</Str>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="5"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+		</Action>
+	</Task>
+	<Task sr="task4">
+		<cdate>1403459304830</cdate>
+		<edate>1406745663119</edate>
+		<id>4</id>
+		<nme>Off</nme>
+		<pri>10</pri>
+		<Action sr="act0" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%OFF_STARTED</Str>
+			<Str sr="arg1" ve="3">1</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act1" ve="5">
+			<code>548</code>
+			<on>false</on>
+			<Str sr="arg0" ve="3">Stopping</Str>
+			<Int sr="arg1" val="0"/>
+		</Action>
+		<Action sr="act10" ve="5">
+			<code>135</code>
+			<Int sr="arg0" val="0"/>
+			<Int sr="arg1" val="24"/>
+			<Str sr="arg2" ve="3"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="2">
+					<lhs>%DCPOWER</lhs>
+					<op>4</op>
+					<rhs>1</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act11" ve="5">
+			<code>548</code>
+			<on>false</on>
+			<Str sr="arg0" ve="3">Off initiatad</Str>
+			<Int sr="arg1" val="0"/>
+		</Action>
+		<Action sr="act12" ve="5">
+			<code>30</code>
+			<on>false</on>
+			<Int sr="arg0" val="0"/>
+			<Int sr="arg1" val="4"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+		<Action sr="act13" ve="5">
+			<code>137</code>
+			<on>false</on>
+			<Int sr="arg0" val="0"/>
+			<Str sr="arg1" ve="3">Speed Volume Control Plus</Str>
+		</Action>
+		<Action sr="act14" ve="5">
+			<code>30</code>
+			<on>false</on>
+			<Int sr="arg0" val="508"/>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+		<Action sr="act15" ve="5">
+			<code>294</code>
+			<Int sr="arg0" val="0"/>
+		</Action>
+		<Action sr="act16" ve="5">
+			<code>11820</code>
+			<se>false</se>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<com.intangibleobject.securesettings.plugin.extra.BLURB>GPS Disabled</com.intangibleobject.securesettings.plugin.extra.BLURB>
+					<com.intangibleobject.securesettings.plugin.extra.BLURB-type>java.lang.String</com.intangibleobject.securesettings.plugin.extra.BLURB-type>
+					<com.intangibleobject.securesettings.plugin.extra.ENABLED>false</com.intangibleobject.securesettings.plugin.extra.ENABLED>
+					<com.intangibleobject.securesettings.plugin.extra.ENABLED-type>java.lang.Boolean</com.intangibleobject.securesettings.plugin.extra.ENABLED-type>
+					<com.intangibleobject.securesettings.plugin.extra.SETTING>gps</com.intangibleobject.securesettings.plugin.extra.SETTING>
+					<com.intangibleobject.securesettings.plugin.extra.SETTING-type>java.lang.String</com.intangibleobject.securesettings.plugin.extra.SETTING-type>
+					<com.twofortyfouram.locale.intent.extra.BLURB>GPS Disabled</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.intangibleobject.securesettings.plugin</Str>
+			<Str sr="arg2" ve="3">Secure Settings</Str>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act17" ve="5">
+			<code>30</code>
+			<on>false</on>
+			<Int sr="arg0" val="0"/>
+			<Int sr="arg1" val="5"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+		<Action sr="act18" ve="5">
+			<code>4005</code>
+			<se>false</se>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<BUNDLE_EXTRA_INT_VERSION_CODE>1</BUNDLE_EXTRA_INT_VERSION_CODE>
+					<BUNDLE_EXTRA_INT_VERSION_CODE-type>java.lang.Integer</BUNDLE_EXTRA_INT_VERSION_CODE-type>
+					<BUNDLE_EXTRA_METHOD>Extreme</BUNDLE_EXTRA_METHOD>
+					<BUNDLE_EXTRA_METHOD-type>java.lang.String</BUNDLE_EXTRA_METHOD-type>
+					<BUNDLE_EXTRA_PACKAGE>com.navigon.navigator_checkout_na</BUNDLE_EXTRA_PACKAGE>
+					<BUNDLE_EXTRA_PACKAGE-type>java.lang.String</BUNDLE_EXTRA_PACKAGE-type>
+					<com.twofortyfouram.locale.intent.extra.BLURB>Method=Extreme; Package=com.navigon.navigator_checkout_na</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.laptopfreek0.taskkill</Str>
+			<Str sr="arg2" ve="3">Taskkill</Str>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act19" ve="5">
+			<code>18</code>
+			<on>false</on>
+			<App sr="arg0">
+				<appClass>com.navigon.navigator_checkout_na.hmi.CheckExistingRegistrationActivity</appClass>
+				<appPkg>com.navigon.navigator_checkout_na</appPkg>
+				<label>NAVIGON</label>
+			</App>
+			<Int sr="arg1" val="1"/>
+		</Action>
+		<Action sr="act2" ve="5">
+			<code>37</code>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="2">
+					<lhs>%ON_STARTED</lhs>
+					<op>4</op>
+					<rhs>0</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act20" ve="5">
+			<code>30</code>
+			<Int sr="arg0" val="0"/>
+			<Int sr="arg1" val="1"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+		<Action sr="act21" ve="5">
+			<code>812</code>
+			<Int sr="arg0" val="15"/>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+		</Action>
+		<Action sr="act22" ve="5">
+			<code>16</code>
+		</Action>
+		<Action sr="act23" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%OFF_STARTED</Str>
+			<Str sr="arg1" ve="3">0</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act3" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%WasMusicPlaying</Str>
+			<Str sr="arg1" ve="3">%MPLAYING</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act4" ve="5">
+			<code>23623</code>
+			<se>false</se>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<com.batescorp.notificationmediacontrols.shortcuts.MediaControlShortCutAction.KEYCODE>-776</com.batescorp.notificationmediacontrols.shortcuts.MediaControlShortCutAction.KEYCODE>
+					<com.batescorp.notificationmediacontrols.shortcuts.MediaControlShortCutAction.KEYCODE-type>java.lang.Integer</com.batescorp.notificationmediacontrols.shortcuts.MediaControlShortCutAction.KEYCODE-type>
+					<com.twofortyfouram.locale.intent.extra.BLURB>Pause (Smart)</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.batescorp.notificationmediacontrols.alpha</Str>
+			<Str sr="arg2" ve="3">Media Utilities Action</Str>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act5" ve="5">
+			<code>38</code>
+		</Action>
+		<Action sr="act6" ve="5">
+			<code>548</code>
+			<on>false</on>
+			<Str sr="arg0" ve="3">Dc %DCPOWER on %ON_STARTED off %OFF_STARTED waiting</Str>
+			<Int sr="arg1" val="0"/>
+		</Action>
+		<Action sr="act7" ve="5">
+			<code>35</code>
+			<Int sr="arg0" val="129"/>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="2">
+					<lhs>%ON_STARTED</lhs>
+					<op>4</op>
+					<rhs>0</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act8" ve="5">
+			<code>30</code>
+			<Int sr="arg0" val="0"/>
+			<Int sr="arg1" val="10"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+		<Action sr="act9" ve="5">
+			<code>548</code>
+			<on>false</on>
+			<Str sr="arg0" ve="3">Dc %DCPOWER on %ON_STARTED off %OFF_STARTED</Str>
+			<Int sr="arg1" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task6">
+		<cdate>1404241791340</cdate>
+		<edate>1406690952528</edate>
+		<id>6</id>
+		<nme>Test</nme>
+		<pri>10</pri>
+		<Action sr="act0" ve="5">
+			<code>548</code>
+			<label>sfg</label>
+			<on>false</on>
+			<Str sr="arg0" ve="3">%BATT</Str>
+			<Int sr="arg1" val="0"/>
+		</Action>
+		<Action sr="act1" ve="5">
+			<code>547</code>
+			<on>false</on>
+			<Str sr="arg0" ve="3">%DCPOWER</Str>
+			<Str sr="arg1" ve="3">1</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act2" ve="5">
+			<code>30</code>
+			<on>false</on>
+			<Int sr="arg0" val="343"/>
+			<Int sr="arg1" val="2"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+		<Action sr="act3" ve="5">
+			<code>135</code>
+			<on>false</on>
+			<Int sr="arg0" val="0"/>
+			<Int sr="arg1" val="1"/>
+			<Str sr="arg2" ve="3"/>
+		</Action>
+	</Task>
+	<Task sr="task8">
+		<cdate>1404090835347</cdate>
+		<edate>1406743668892</edate>
+		<id>8</id>
+		<nme>Boot Startup</nme>
+		<Action sr="act0" ve="5">
+			<code>30</code>
+			<on>false</on>
+			<Int sr="arg0" val="0"/>
+			<Int sr="arg1" val="15"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+		<Action sr="act1" ve="5">
+			<code>20</code>
+			<on>false</on>
+			<se>false</se>
+			<App sr="arg0">
+				<appClass>com.navigon.navigator_checkout_na.hmi.CheckExistingRegistrationActivity</appClass>
+				<appPkg>com.navigon.navigator_checkout_na</appPkg>
+				<label>NAVIGON</label>
+			</App>
+			<Str sr="arg1" ve="3"/>
+			<Int sr="arg2" val="0"/>
+		</Action>
+		<Action sr="act2" ve="5">
+			<code>30</code>
+			<on>false</on>
+			<Int sr="arg0" val="0"/>
+			<Int sr="arg1" val="8"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+		<Action sr="act3" ve="5">
+			<code>20</code>
+			<on>false</on>
+			<App sr="arg0">
+				<appClass>com.android.music.activitymanagement.TopLevelActivity</appClass>
+				<appPkg>com.google.android.music</appPkg>
+				<label>Music</label>
+			</App>
+			<Str sr="arg1" ve="3"/>
+			<Int sr="arg2" val="0"/>
+		</Action>
+	</Task>
+	<Task sr="task9">
+		<cdate>1403918068626</cdate>
+		<edate>1406745646137</edate>
+		<id>9</id>
+		<nme>Resume Music</nme>
+		<pri>10</pri>
+		<Action sr="act0" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%ON_STARTED</Str>
+			<Str sr="arg1" ve="3">1</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act1" ve="5">
+			<code>35</code>
+			<on>false</on>
+			<Int sr="arg0" val="129"/>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="2">
+					<lhs>%OFF_STARTED</lhs>
+					<op>4</op>
+					<rhs>0</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act10" ve="5">
+			<code>23623</code>
+			<se>false</se>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<com.batescorp.notificationmediacontrols.shortcuts.MediaControlShortCutAction.KEYCODE>-775</com.batescorp.notificationmediacontrols.shortcuts.MediaControlShortCutAction.KEYCODE>
+					<com.batescorp.notificationmediacontrols.shortcuts.MediaControlShortCutAction.KEYCODE-type>java.lang.Integer</com.batescorp.notificationmediacontrols.shortcuts.MediaControlShortCutAction.KEYCODE-type>
+					<com.twofortyfouram.locale.intent.extra.BLURB>Play (Smart)</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.batescorp.notificationmediacontrols.alpha</Str>
+			<Str sr="arg2" ve="3">Media Utilities Action</Str>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act11" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%WasMusicPlaying</Str>
+			<Str sr="arg1" ve="3">1</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act12" ve="5">
+			<code>30</code>
+			<Int sr="arg0" val="308"/>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+		<Action sr="act13" ve="5">
+			<code>307</code>
+			<Int sr="arg0">
+				<var>(%Vol0-7)</var>
+			</Int>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+		</Action>
+		<Action sr="act14" ve="5">
+			<code>30</code>
+			<Int sr="arg0" val="308"/>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+		<Action sr="act15" ve="5">
+			<code>307</code>
+			<Int sr="arg0">
+				<var>(%Vol0-6)</var>
+			</Int>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+		</Action>
+		<Action sr="act16" ve="5">
+			<code>30</code>
+			<Int sr="arg0" val="308"/>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+		<Action sr="act17" ve="5">
+			<code>307</code>
+			<Int sr="arg0">
+				<var>(%Vol0-5)</var>
+			</Int>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+		</Action>
+		<Action sr="act18" ve="5">
+			<code>30</code>
+			<Int sr="arg0" val="308"/>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+		<Action sr="act19" ve="5">
+			<code>307</code>
+			<Int sr="arg0">
+				<var>(%Vol0-4)</var>
+			</Int>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+		</Action>
+		<Action sr="act2" ve="5">
+			<code>548</code>
+			<on>false</on>
+			<Str sr="arg0" ve="3">Dc %DCPOWER on %ON_STARTED off %OFF_STARTED</Str>
+			<Int sr="arg1" val="0"/>
+		</Action>
+		<Action sr="act20" ve="5">
+			<code>30</code>
+			<Int sr="arg0" val="308"/>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+		<Action sr="act21" ve="5">
+			<code>307</code>
+			<Int sr="arg0">
+				<var>(%Vol0-3)</var>
+			</Int>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+		</Action>
+		<Action sr="act22" ve="5">
+			<code>30</code>
+			<Int sr="arg0" val="308"/>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+		<Action sr="act23" ve="5">
+			<code>307</code>
+			<Int sr="arg0">
+				<var>(%Vol0-2)</var>
+			</Int>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+		</Action>
+		<Action sr="act24" ve="5">
+			<code>30</code>
+			<Int sr="arg0" val="308"/>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+		<Action sr="act25" ve="5">
+			<code>307</code>
+			<Int sr="arg0">
+				<var>(%Vol0-1)</var>
+			</Int>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+		</Action>
+		<Action sr="act26" ve="5">
+			<code>30</code>
+			<Int sr="arg0" val="308"/>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+		<Action sr="act27" ve="5">
+			<code>307</code>
+			<Int sr="arg0">
+				<var>%Vol0</var>
+			</Int>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+		</Action>
+		<Action sr="act28" ve="5">
+			<code>547</code>
+			<Str sr="arg0" ve="3">%ON_STARTED</Str>
+			<Str sr="arg1" ve="3">0</Str>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act29" ve="5">
+			<code>548</code>
+			<on>false</on>
+			<Str sr="arg0" ve="3">Dc %DCPOWER on %ON_STARTED off %OFF_STARTED</Str>
+			<Int sr="arg1" val="0"/>
+		</Action>
+		<Action sr="act3" ve="5">
+			<code>37</code>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="2">
+					<lhs>%DCPOWER</lhs>
+					<op>4</op>
+					<rhs>1</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act30" ve="5">
+			<code>38</code>
+		</Action>
+		<Action sr="act4" ve="5">
+			<code>37</code>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="2">
+					<lhs>%TagLang</lhs>
+					<op>0</op>
+					<rhs>com.ivona.tts.oem:rus-RUS-tatyana</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Action sr="act5" ve="5">
+			<code>559</code>
+			<se>false</se>
+			<Str sr="arg0" ve="3">Продолжаю проигрывать :
+%ARTIST   
+%TRACK</Str>
+			<Str sr="arg1" ve="3">%TagLang</Str>
+			<Int sr="arg2" val="3"/>
+			<Int sr="arg3" val="5"/>
+			<Int sr="arg4" val="5"/>
+			<Int sr="arg5" val="1"/>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+		</Action>
+		<Action sr="act6" ve="5">
+			<code>43</code>
+		</Action>
+		<Action sr="act7" ve="5">
+			<code>559</code>
+			<se>false</se>
+			<Str sr="arg0" ve="3">Resuming :
+%ARTIST   
+%TRACK</Str>
+			<Str sr="arg1" ve="3">%TagLang</Str>
+			<Int sr="arg2" val="3"/>
+			<Int sr="arg3" val="5"/>
+			<Int sr="arg4" val="5"/>
+			<Int sr="arg5" val="1"/>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+		</Action>
+		<Action sr="act8" ve="5">
+			<code>38</code>
+		</Action>
+		<Action sr="act9" ve="5">
+			<code>307</code>
+			<Int sr="arg0">
+				<var>(%Vol0-8)</var>
+			</Int>
+			<Int sr="arg1" val="0"/>
+			<Int sr="arg2" val="0"/>
+		</Action>
+	</Task>
+</TaskerData>
